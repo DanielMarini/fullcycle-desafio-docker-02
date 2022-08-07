@@ -6,7 +6,7 @@ Desafio 2
 
 ### Executar com docker-compose
 
-Digite o comando abaixo e acesse http://localhost:8080/ no brose
+Digite o comando abaixo e acesse http://localhost:8080/ no browser
 
 ...
 docker-compose up -d
